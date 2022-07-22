@@ -10,7 +10,7 @@
 This is the first weeks' challenge project. The goal was to edit semantic HTML elements and clean up the CSS and HTML code.
 
 ## Installation
-Once the [File](./Challenge_1/) is installed, you must open [The Index File](./index.html) in a browser. No futher installation should be required
+Once the [File](./Challenge_1/) is installed, you must open [The Index File](./index.html) in a browser. No futher installation should be required. Temporarily, webpage deployed at https://jack41400.github.io/Week-1-Challenge-MSU-Bootcamp/ as of 7/21/2022.
 
 ## Credits
 All assets and content was souced from Trilogy Education Services. All asset and instructions can be found Here
