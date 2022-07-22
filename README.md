@@ -1,10 +1,10 @@
 # Week-1-Challenge-MSU-Bootcamp
 
-[Description](#description)
-[Installation](#installation)
-[The Code](#the-code)
-[Main goals](#main-goals)
-[What I Learned](#what-i-learned)
+|[Description](#description)|
+|[Installation](#installation)|
+|[The Code](#the-code)|
+|[Main goals](#main-goals)|
+|[What I Learned](#what-i-learned)|
 
 ## Description
 This is the first weeks' challenge project. The goal was to edit semantic HTML elements and clean up the CSS and HTML code.
