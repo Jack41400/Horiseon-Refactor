@@ -1,4 +1,4 @@
-# Week-1-Challenge-MSU-Bootcamp
+# Horiseon Re-factor
 
 |[Description](#description)|
 |[Installation](#installation)|
